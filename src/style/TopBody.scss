@@ -1,0 +1,22 @@
+.llll {
+    // width: 40vw;
+}
+.header-text{
+    font-size: 13px;    
+    text-align:start ;
+    width: 100%;
+    font-family: sans-serif;
+    padding: 15px 2px;
+    font-weight: 600;
+}
+@media screen and (max-width:600px) {
+    .llll {
+        width: 80vw;
+
+    }
+
+    .table-container {
+        overflow: auto;
+        width: 90.7vw !important;
+    }
+}
